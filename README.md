@@ -8,6 +8,10 @@
 - пагинация;
 - при клике на элемент открываются подробности (как и какие — на усмотрение разработчика);
 
+
+## Деплой проекта 
+github-search-users-three.vercel.app
+
 ## Cтек технологий
 HTML, StyledCSS, React, TypeScrip, Redux Toolkit, React Router, Axios
 
