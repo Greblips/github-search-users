@@ -10,7 +10,7 @@
 
 
 ## Деплой проекта 
-[**GitHub-search**]https://github-search-users-three.vercel.app/
+[**GitHub-search**] https://github-search-users-three.vercel.app/
 
 ## Cтек технологий
 HTML, StyledCSS, React, TypeScrip, Redux Toolkit, React Router, Axios
