@@ -53,7 +53,7 @@ export const BtnNext = styled.button`
 `;
 
 export const CurrentNumberPageDiv = styled.div`
-  background-color: #808080;
+  background-color: #fff;
   width: 40px;
   font-size: 21px;
   border-radius: 15%;
