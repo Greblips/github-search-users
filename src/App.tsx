@@ -1,9 +1,9 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 
+import AppRoutes from "./AppRoutes";
+
 function App() {
-  return <div className="App">start</div>;
+  return <AppRoutes />;
 }
 
 export default App;
